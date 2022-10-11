@@ -39,5 +39,5 @@ int findMin(int n1, int n2, int n3)
 	else if((n3<n1) && (n3<n2))
 		min = n3;
 
-	return min;
+	return min; //need to return min value
 }
